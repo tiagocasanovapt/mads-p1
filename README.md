@@ -8,7 +8,7 @@ During the recent efforts to make Portugal get out of its debt crisis, an invest
 
 The government has therefore initiated a public bidding to find the most promising contractor (such as you) that is able to route a Robot throughout the diamond mine, retrieve all the diamonds, avoid any obstacles (such as falling rocks), and lift the diamonds back to the surface.
 
-Note, however, that the surveying technology is probably not perfect. It is possible we will discover more things underground that we did not expect. We will let you know as the bidding progresses.
+Note, however, that the surveying technology is probably not perfect. It is possible we will discover more things underground that we did not expect. We will let you know as the bidding progresses. The user stories will thus be given by the project owners at the start of each sprint.
 
 # Schedule
 
