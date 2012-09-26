@@ -8,6 +8,7 @@ public class main {
 		// TODO Auto-generated method stub
 		System.out.println("MADS"); //a ver se o travis funciona....
 		System.out.println("Commit Joana");
+		System.out.println("Commit Pedro");
 	}
 
 }
