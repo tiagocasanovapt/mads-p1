@@ -45,6 +45,8 @@ The use of the following tools are compulsory for all groups:
 * Continuous Integration: [Travis](http://about.travis-ci.org/docs/user/languages/java/) with [Github Integration](http://about.travis-ci.org/docs/user/getting-started/)
 * Operating System: Any
 
+The github project **should be initialized as a fork of this project** (yes, the one you're reading). One member of the group should click the button (on the top right) that says "Fork". Then, choose your group folder and start developing there. **Do not make merge requests until after midnight**. After all merge requests, this repository will act as a unified host to all projects.
+
 # Group Formation
 
 Groups should edit this file and add their group name, members, and github URL to the following list.
