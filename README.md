@@ -44,3 +44,19 @@ The use of the following tools are compulsory for all groups:
 * Building System: [Gradle](http://www.gradle.org) or [Maven](http://maven.apache.org) or [Ant](http://ant.apache.org)
 * Continuous Integration: [Travis](http://about.travis-ci.org/docs/user/languages/java/) with [Github Integration](http://about.travis-ci.org/docs/user/getting-started/)
 * Operating System: Any
+
+# Group Formation
+
+Groups should edit this file and add their group name, members, and github URL to the following list.
+
+## Day Shift Group 1
+
+* Team Members:
+* Project (Github) URL:
+
+## Day Shift Group 2
+
+* Team Members:
+* Project (Github) URL:
+
+## ...
