@@ -55,9 +55,9 @@ If you don't know how to use git, you can download the excellent github graphica
 
 # Group Formation
 
-Groups should edit this file and add their group name, members, and github URL to the following list. Please remember that groups should have between 4 and 6 people. Should members have a twitter account, add it in front of the member, e.g.:
+Groups should edit this file and add their group name, members, and github URL to the following list. Please remember that groups should have between 4 and 6 people. Should members have a twitter account, add it in front of the name, e.g.:
 
-* Teaching Staff: Ademar Aguiar (@ademar_aguiar), Hugo Sereno Ferreira (@ferreira_hugo)
+* Teaching Staff: Ademar Aguiar ([@ademar_aguiar](https://twitter.com/ademar_aguiar)), Hugo Sereno Ferreira ([@ferreira_hugo](https://twitter.com/ferreira_hugo))
 
 ## Day Shift Group 1
 
