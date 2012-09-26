@@ -1,6 +1,6 @@
 # Introduction
 
-This is the problem description for the first MADS hack-a-thon, taken place at FEUP, Wednesday 26th September 2012. Please **follow the instructions** on this page and **read until the end**.
+This is the problem description for the first [MADS](https://sigarra.up.pt/feup/disciplinas_GERAL.FormView?P_ANO_LECTIVO=2012/2013&P_CAD_CODIGO=EIC0062&P_PERIODO=1S) hack-a-thon, taken place at [FEUP](http://www.fe.up.pt), Wednesday 26th September 2012. Please **follow the instructions** on this page and **read until the end**.
 
 # Hack-a-thon Description
 
