@@ -10,6 +10,7 @@ public class main {
 		System.out.println("Commit Joana");
 		System.out.println("Commit Pedro");
 		System.out.println("Commit Filipe");
+		System.out.println("Commit gitignore");
 	}
 
 }
