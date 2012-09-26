@@ -18,7 +18,7 @@ This exercise takes place at room B215, with the following distribution:
 ```
     14:00 Sprint 1
     15:30 Sprint 2
-    17:00 Pause
+    17:00 Pause (Snacks)
     18:00 Sprint 3
     19:30 Sprint 4
     21:00 End
@@ -28,7 +28,7 @@ This exercise takes place at room B215, with the following distribution:
 ```
     17:00 Sprint 1
     18:30 Sprint 2
-    20:00 Pause
+    20:00 Pause (Dinner)
     21:00 Sprint 3
     22:30 Sprint 4
     00:00 End
