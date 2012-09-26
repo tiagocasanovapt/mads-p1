@@ -49,7 +49,9 @@ The github project **should be initialized as a fork of this project** (yes, the
 
 # Group Formation
 
-Groups should edit this file and add their group name, members, and github URL to the following list.
+Groups should edit this file and add their group name, members, and github URL to the following list. Please remember that groups should have between 4 and 6 people. Should members have a twitter account, add it in front of the member, e.g.:
+
+* Teaching Staff: Ademar Aguiar (@ademar_aguiar), Hugo Sereno Ferreira (@ferreira_hugo)
 
 ## Day Shift Group 1
 
