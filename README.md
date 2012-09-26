@@ -41,7 +41,7 @@ The use of the following tools are compulsory for all groups:
 * Programming Language: [Java 7](http://www.oracle.com/technetwork/java/javase/downloads/jdk7u7-downloads-1836413.html)
 * Testing Infrastructure: [JUnit](http://www.junit.org)
 * Version Control System: [Git](http://git-scm.com) through [GitHub](https://github.com)
-* Building System: [Gradle](http://www.gradle.org) or [Maven](http://maven.apache.org) or [Ant](http://ant.apache.org)
+* Building System: [Gradle](http://www.gradle.org) or [Maven](http://maven.apache.org) or [Ant](http://ant.apache.org) or [Sbt](http://www.scala-sbt.org)
 * Continuous Integration: [Travis](http://about.travis-ci.org/docs/user/languages/java/) with [Github Integration](http://about.travis-ci.org/docs/user/getting-started/)
 * Operating System: Any
 
