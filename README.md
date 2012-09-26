@@ -47,6 +47,12 @@ The use of the following tools are compulsory for all groups:
 
 The github project **should be initialized as a fork of this project** (yes, the one you're reading). One member of the group should click the button (on the top right) that says "Fork". Then, choose your group folder and start developing there. **Do not make pull requests until after midnight**. After all merge requests, this repository will act as a unified host to all projects.
 
+If you don't know how to use git, you can download the excellent github graphical utilities:
+
+* For [Windows](http://windows.github.com)
+* For [Mac](http://mac.github.com)
+* Linux users should use the command line :-)
+
 # Group Formation
 
 Groups should edit this file and add their group name, members, and github URL to the following list. Please remember that groups should have between 4 and 6 people. Should members have a twitter account, add it in front of the member, e.g.:
