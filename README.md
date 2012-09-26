@@ -1,6 +1,6 @@
 # Introduction
 
-This is the problem description for the first MADS hack-a-thon, taken place at FEUP, Wednesday 26th September 2012.
+This is the problem description for the first MADS hack-a-thon, taken place at FEUP, Wednesday 26th September 2012. Please **follow the instructions** on this page and **read until the end**.
 
 # Hack-a-thon Description
 
