@@ -15,19 +15,32 @@ Note, however, that the surveying technology is probably not perfect. It is poss
 This exercise takes place at room B215, with the following distribution:
 
 * Day Shift Groups (14h - 21h)
-
+```
     14:00 Sprint 1
     15:30 Sprint 2
     17:00 Pause
     18:00 Sprint 3
     19:30 Sprint 4
     21:00 End
+```
 
 * Night Shift Groups (17h - 00h)
-
+```
     17:00 Sprint 1
     18:30 Sprint 2
     20:00 Pause
     21:00 Sprint 3
     22:30 Sprint 4
     00:00 End
+```
+
+# Tools
+
+The use of the following tools are compulsory for all groups:
+
+* Programming Language: [Java 7](http://www.oracle.com/technetwork/java/javase/downloads/jdk7u7-downloads-1836413.html)
+* Testing Infrastructure: [JUnit](http://www.junit.org)
+* Version Control System: [Git](http://git-scm.com) through [GitHub](https://github.com)
+* Building System: [Gradle](http://www.gradle.org) or [Maven](http://maven.apache.org) or [Ant](http://ant.apache.org)
+* Continuous Integration: [Travis](http://about.travis-ci.org/docs/user/languages/java/) with [Github Integration](http://about.travis-ci.org/docs/user/getting-started/)
+* Operating System: Any
